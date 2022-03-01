@@ -1,2 +1,2 @@
 # SQL-Zoo
-SQL practice with SQL Zoo exercise. 
+SQL practice with SQL Zoo exercises. 
